@@ -1,0 +1,24 @@
+{
+  "name": "se2repo3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+		"start" : "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g1nus/se2repo3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g1nus/se2repo3/issues"
+  },
+  "homepage": "https://github.com/g1nus/se2repo3#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node": "^11.0.0"
+  }
+}
